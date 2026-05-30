@@ -1,0 +1,1 @@
+# cognifyz-python-internship-tasks.
